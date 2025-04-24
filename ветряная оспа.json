@@ -1,0 +1,14 @@
+{
+    "people": [],
+    "walls": [],
+    "tik": [],
+    "count_ill": 0,
+    "count_death": 0,
+    "count_health": 0,
+    "size_edit_field": 30,
+    "death_threat": 2e-05,
+    "probability_of_recovery": 0.01,
+    "recovery_steps": 6000,
+    "probability_of_disease": 0.03,
+    "INFECTION_RADIUS": 160
+}
